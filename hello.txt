@@ -1,2 +1,4 @@
 Hello Git
 ２回目の編集テスト
+practice-branchでの編集
+conflict-branchでの編集
