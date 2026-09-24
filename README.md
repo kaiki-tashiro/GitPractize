@@ -34,3 +34,23 @@
 
 # 2025年8月
 
+
+
+\##使った技術
+
+\-Git
+
+\-GitHub
+
+
+
+\##学んだこと
+
+\-clone/add/commit/push
+
+\-branchとpull request
+
+\-コンフリクトの解消
+
+\-.gitignore
+
