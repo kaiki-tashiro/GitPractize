@@ -1,56 +1,31 @@
-# \# GitPractice
+# GitPractice
 
-# 
+GitとGitHubの基本操作を学習するためのリポジトリです。
 
-# GitとGitHubの基本操作を学習するためのリポジトリです。
+## 学習内容
 
-# 
+- Gitリポジトリの作成 (git init)
+- ファイルの追加 (git add)
+- コミットによる履歴管理 (git commit)
+- GitHubへのアップロード (git push)
 
-# \## 学習内容
+## ファイル
 
-# 
+- hello.txt : Gitの練習用テキストファイル
 
-# \- Gitリポジトリの作成（git init）
+## 学習日
 
-# \- ファイルの追加（git add）
+2025年8月
 
-# \- コミットによる履歴管理（git commit）
+## 使った技術
 
-# \- GitHubへのアップロード（git push）
+- Git
+- GitHub
 
-# 
+## 学んだこと
 
-# \## ファイル
-
-# 
-
-# \- hello.txt : Gitの練習用テキストファイル
-
-# 
-
-# \## 学習日
-
-# 
-
-# 2025年8月
-
-
-
-\## 使った技術
-
-
-
-* Git
-* GitHub
-
-
-
-\## 学んだこと
-
-
-
-* clone/add/commit/push
-* branchとpull request
-* コンフリクトの解消
-* .gitignore
+- clone / add / commit / push
+- branch と pull request
+- コンフリクトの解消
+- .gitignore
 
