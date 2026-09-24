@@ -36,21 +36,21 @@
 
 
 
-\##使った技術
-
-\-Git
-
-\-GitHub
+\## 使った技術
 
 
 
-\##学んだこと
+* Git
+* GitHub
 
-\-clone/add/commit/push
 
-\-branchとpull request
 
-\-コンフリクトの解消
+\## 学んだこと
 
-\-.gitignore
+
+
+* clone/add/commit/push
+* branchとpull request
+* コンフリクトの解消
+* .gitignore
 
