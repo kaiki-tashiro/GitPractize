@@ -3,3 +3,4 @@ Hello Git
 main縺ｧ縺ｮ蛻･縺ｮ螟画峩
 practice-branch縺ｧ縺ｮ邱ｨ髮�
 git diff縺ｧ縺ｮ邱ｨ髮�テスト表記 
+コミットメッセージの練習 
